@@ -42,13 +42,15 @@ nav ul li a:hover{
     position: absolute;
     border: none;
     border-color: #e6615c;
+    color: aliceblue;
     border-bottom: 2px solid #e6615c;
     top: 75%;
     right: 40%;
     background-color: rgba(0, 0, 0, 0.014);
-
+    
 }
 .i2{
+    color: aliceblue;
     position: absolute;
     border: none;
     border-color: #e6615c;
