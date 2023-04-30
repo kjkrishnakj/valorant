@@ -1,0 +1,22 @@
+body{
+    background-image: url(killjoy.jpg);
+}   
+h1{
+    position: absolute;
+    top: 20%;
+    right: 43%;
+
+    
+    font-size: 300%;
+    color: aliceblue;
+}
+p{
+    position: absolute;
+    top: 40%;
+    width: 60%;
+    right: 20%;
+
+    
+    font-size: 100%;
+    color: aliceblue;
+}
